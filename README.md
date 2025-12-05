@@ -8,7 +8,7 @@ La aplicación permite la clasificación de tareas por prioridad (ALTA, MEDIA, B
 
 | Elemento | Enlace |
 | :--- | :--- |
-| **Repositorio Git** | https://github.com/elismerymoreno-crypto/GestorTareasSwing |
+| **Repositorio Git** | https://github.com/elisnerymoreno-crypto/GestorTareasSwing |
 | **Autor** | [TU NOMBRE Y APELLIDO] |
 
 ---
